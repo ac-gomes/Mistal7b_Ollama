@@ -42,7 +42,7 @@ O [**Mistral 7B**](https://mistral.ai/news/announcing-mistral-7b) é um modelo d
 
 - Rode o comando `docker compose up --build -d`
 
-- Para ver o processo de intalação do Mistral rode o comando `docker logs -f ollama_mistral`
+- Para ver o processo de instalação do Mistral rode o comando `docker logs -f ollama_mistral`
 
 - Para sair do log pressione a combinação `Ctrl + C`
 
