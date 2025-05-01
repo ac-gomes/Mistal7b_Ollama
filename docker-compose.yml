@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+      - ./entrypoint.sh:/entrypoint.sh
+
+    networks:
+      - iceber-net
+    restart: unless-stopped
+    entrypoint: [ "sh", "/entrypoint.sh" ]
+
+volumes:
+  ollama_data:
+
+networks:
+  iceber-net:
+    external: true
