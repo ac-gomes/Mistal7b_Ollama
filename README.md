@@ -36,9 +36,9 @@ O [**Mistral 7B**](https://mistral.ai/news/announcing-mistral-7b) é um modelo d
 ---
 ## Como usar
 ### Baixe o conteúdo deste repositorio
-` git clone https://github.com/ac-gomes/Mistal7b_Ollama.git`
+` git clone https://github.com/ac-gomes/Mistral7b_Ollama.git`
 
-- Acesse a pasta `cd Mistal7b_Ollama`
+- Acesse a pasta `cd Mistral7b_Ollama`
 
 - Rode o comando `docker compose up --build -d`
 
