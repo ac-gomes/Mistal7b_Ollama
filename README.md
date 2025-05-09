@@ -8,7 +8,7 @@ Este repositório faz parte de uma demo prática desenvolvida por mim. O Mistral
 🚀 A demo prática pode ser acompanhada nesta playlist do Youtube [**LLM-Gen AI**](https://www.youtube.com/watch?v=gKLr1GW-c_Q&list=PL_DJzsnOIcHAG0dKRaA_Rm_Dhg32Tj9II)
 
 ## Projeto
-![RAG_with_Tabular_Data](./img/RAG_with_Tabolar_Data.png)
+![RAG_with_Tabular_Data](https://github.com/ac-gomes/Mistral7b_Ollama/blob/development/img/RAG_with_Tabolar_Data.png)
 
 ---
 
